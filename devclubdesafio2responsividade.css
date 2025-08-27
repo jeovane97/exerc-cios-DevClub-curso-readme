@@ -1,0 +1,50 @@
+@media screen and (max-width :1200px){
+    .hd{
+        display: none;
+    }
+    #bt1{
+        position: absolute;
+        top:17px;
+        right: 15px;
+    }
+    section{
+    display: grid;
+    width: 518px;
+    margin-left: 47px;
+    position: static;
+    top: 124px;
+    }
+    
+    h1{
+        font-size: 30px;
+        height: 42px;
+       text-align: center;
+        height: 101px;
+        display: block;
+        margin: 11px;
+    }
+    p{
+        font-size: 18px;
+        margin-top: 63px;
+        text-align: center;
+        margin-right: 32px;
+        height: 99px;
+    }
+    .end{
+    display: block;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    right: 24px;
+    }
+img{
+        position: absolute;
+        top: 507px;
+        margin: 50px;
+        display: block;
+        padding: 10px;
+        left: 23px;
+        width: 279px;
+        height: 268px;
+    }
+}
